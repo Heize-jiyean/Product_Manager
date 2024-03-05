@@ -14,5 +14,8 @@
 # 서비스 기획 프로젝트 칼로리샷
 
 아래의 링크에서 프로젝트 파일을 확인하실 수 있습니다.
-https://drive.google.com/file/d/1YuCyY3GlQlvOupIOgEcsr-ZTBOc6GRYz/view?usp=drive_link
+<br/>
+📍 https://drive.google.com/file/d/1YuCyY3GlQlvOupIOgEcsr-ZTBOc6GRYz/view?usp=drive_link
+![칼로리샷 메인화면](https://github.com/Heize-jiyean/Product_Manager/assets/158806908/df8e7f51-4dfa-472e-a831-2ee1a3a5a87c)
+
 
